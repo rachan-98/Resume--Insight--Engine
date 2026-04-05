@@ -1,3 +1,6 @@
+<img width="1920" height="861" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/04476d02-58cb-4782-a76d-4080abaf6337" />
+<img width="1920" height="850" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/7b0c0b86-978a-4bdd-ab2e-925e8feb70b3" />
+<img width="1898" height="859" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/c4ae4774-1fe1-4517-afea-b0458f580dc7" />
 # Resume Insight Engine
 
 Resume Insight Engine is a web application designed to analyze resumes and provide actionable insights for improvement. It helps users evaluate how well their resumes align with industry expectations and offers structured suggestions to improve their chances of passing Applicant Tracking Systems (ATS).
